@@ -11,8 +11,8 @@ A bug is a developped feature that does not work as intended. To be considered a
 Bugs are classified by priority:
 
 - CRITICAL (Resolution within 24h) = Everyone is prevented from completing an essential use case;
-- MAJOR (Resolution within 1 week) = Everyone is prevented from completing a non-essential use case or there is an easy workaround.
-- MINOR (resolution within 1 month)) = Someone is prevented from completing a use case under specific circumstances. The defect does not affect everyone.
+- MAJOR (Resolution in the next version) = Everyone is prevented from completing a non-essential use case or there is an easy workaround.
+- MINOR (resolution within a couple of versions)) = Someone is prevented from completing a use case under specific circumstances. The defect does not affect everyone.
 
 Reporting a bug has specific requirements:
 
